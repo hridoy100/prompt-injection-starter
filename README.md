@@ -8,13 +8,6 @@ Prompt injection is the fastest way to see how AI systems can be tricked. In sho
 
 Large language models often follow the most recent or most persuasive instructions they see. That makes any system that mixes user input with privileged instructions (like system prompts, tool calls, or hidden policies) a target. Understanding prompt injection helps you design safer apps, test your own systems, and speak clearly about risk.
 
-## A 30-Minute Starter Path
-
-1. Read a concrete example of how attackers smuggle instructions into prompts.
-2. Explore a couple of public prompt injection challenges to build intuition.
-3. Browse a curated library of attacks to learn common patterns.
-4. Follow a couple of long-form sources for deeper dives.
-
 ## High-Signal Resources
 
 ### Concepts and Techniques
