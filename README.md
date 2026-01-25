@@ -8,7 +8,7 @@ Prompt injection is one of the easiest ways to see how AI systems can be manipul
 
 LLMs tend to follow the latest or most persuasive instructions. Any system that mixes user input with privileged instructions (system prompts, tools, or hidden policies) becomes a target. Knowing the basics helps you build safer apps, test your own systems, and discuss risk clearly.
 
-## High-Signal Resources
+## High-Level Resources
 
 ### Concepts and Techniques
 
