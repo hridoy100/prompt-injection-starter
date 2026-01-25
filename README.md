@@ -55,6 +55,7 @@ def show_non_ascii(s):
 - [Executive Offense - LLM Hacking PT 2](https://executiveoffense.beehiiv.com/p/executive-offense-llm-hacking-pt-2) - Practical, offensive view of LLM testing.
 - [Adversarial ML YouTube Playlist](https://youtube.com/playlist?list=PLALM3TzRCwCsNM1wC1-LY9z8nlhAsd2v8&si=pIdOe_AyzuQly6ox) - Talks and lectures for broader context.
 - [Prompt Injection Talk](https://www.youtube.com/watch?v=43qfHaKh0Xk) - A focused walkthrough of prompt injection concepts.
+- [Agentic ProbLLMs: Exploiting AI Computer-Use and Coding Agents (39c3)](https://www.youtube.com/watch?v=TWhKGqYQT9g) - Talk by Johann Rehberger (embracethered.com).
 - [Certified AI/ML Pentester Exam Journey](https://medium.com/@gavilanesadolfo/certified-ai-ml-pentester-certification-exam-journey-64e151d39dcd) - A realistic look at learning pathways.
 
 ## Quick Tips for Safe Learning
